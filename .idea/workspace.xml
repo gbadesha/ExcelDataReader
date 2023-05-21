@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ede5f5e-96d8-4455-b5fe-724f50a79cd5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GurpreetData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classMay/SigninPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classMay/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classMay/TopNavBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classMay/ZoomSignInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classMay20/SignUpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classMay20/ZoomNavBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/classMay20/ZoomSignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fileReader/DataFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fileReader/ExcelDataPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fileReader/ExcelDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sauceLab/ZoomTestSauceLab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webDriver/WebDriverManagerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webElement/webElementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/webElement/webElementTestInSauceLab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoomTest/ZoomTestSauceLab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoomTest/zoomContactData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/zoomTest/zoomDataProvider.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PWMCUMao8Q9OeROofWXdH21vLJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/DELL/Downloads/webElementTest/src/test",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Downloads\webElementTest\src\test" />
+      <recent name="C:\Users\DELL\Downloads\webElementTest" />
+      <recent name="C:\Users\DELL\Downloads\webElementTest\src\test\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fileReader" />
+      <recent name="webElement" />
+      <recent name="zoomTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SignUpTest.virtualMeetingsTest">
+    <configuration name="DataFileTest.data2Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webElementTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fileReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fileReader" />
+      <option name="MAIN_CLASS_NAME" value="fileReader.DataFileTest" />
+      <option name="METHOD_NAME" value="data2Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataFileTest.dataExcelFileTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webElementTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fileReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fileReader" />
+      <option name="MAIN_CLASS_NAME" value="fileReader.DataFileTest" />
+      <option name="METHOD_NAME" value="dataExcelFileTest2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpTest.SignUpFreeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webElementTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classMay20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classMay20" />
+      <option name="MAIN_CLASS_NAME" value="classMay20.SignUpTest" />
+      <option name="METHOD_NAME" value="SignUpFreeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpTest.virtualMeetingsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webElementTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classMay20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classMay20" />
+      <option name="MAIN_CLASS_NAME" value="classMay20.SignUpTest" />
+      <option name="METHOD_NAME" value="virtualMeetingsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpTest.zoomSignUpTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webElementTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classMay20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classMay20" />
+      <option name="MAIN_CLASS_NAME" value="classMay20.SignUpTest" />
+      <option name="METHOD_NAME" value="zoomSignUpTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SignUpTest.virtualMeetingsTest" />
+        <item itemvalue="TestNG.SignUpTest.SignUpFreeTest" />
+        <item itemvalue="TestNG.SignUpTest.zoomSignUpTest" />
+        <item itemvalue="TestNG.DataFileTest.data2Test" />
+        <item itemvalue="TestNG.DataFileTest.dataExcelFileTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ede5f5e-96d8-4455-b5fe-724f50a79cd5" name="Changes" comment="" />
+      <created>1683568264967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683568264967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/webElement/webElementTest.java</url>
+          <line>40</line>
+          <properties class="webElement.webElementTest" method="ContextMenuTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/fileReader/DataFileTest.java</url>
+          <line>48</line>
+          <properties class="fileReader.DataFileTest" method="dataExcelFileTest3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/classMay20/SignUpTest.java</url>
+          <line>19</line>
+          <properties class="classMay20.SignUpTest" method="SignUpFreeTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="slot_4" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/webElementTest$DataFileTest.ic" NAME="DataFileTest Coverage Results" MODIFIED="1684269407824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>fileReader.*</FILTER>
+    </SUITE>
+  </component>
+</project>
